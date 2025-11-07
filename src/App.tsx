@@ -26,7 +26,7 @@ const users = [
   },
   {
     id: '4',
-    name: 'Dan Lee',
+    name: 'Dan Lee ',
     email: 'dan.lee@example.com',
     avatar: 'https://avatars.dicebear.com/api/identicon/dan-lee.svg',
     status: 'offline',
